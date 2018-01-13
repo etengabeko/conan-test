@@ -1,0 +1,7 @@
+*.swp
+*.pro.user
+build/*
+Makefile
+conanbuildinfo.*
+conaninfo.*
+conan_*.txt
